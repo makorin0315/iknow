@@ -15,11 +15,8 @@
 #
 # Relative filename (files exists in directory)
 #
-acro=.\JP_dev_jp_acro.csv
-filter=.\JP_dev_jp_filter.csv
 labels=.\JP_jp_labels.csv
 lexreps=.\JP_jp_lexreps.csv
-prepro=.\JP_dev_jp_prepro.csv
 rules=.\JP_jp_rules.csv
 metadata=.\JP_jp_metadata.csv
 #
