@@ -1,0 +1,25 @@
+# "csvdata.kb" : If this file is present in the directory, it serves as a reference to local files,
+# comments can be added, but the line MUST start with the '#' sign.
+#
+# The file pathname can be absolute, or relative to the directory,
+# in the latter case, the pathname must start with a point.
+#
+# Absolute filename example:
+#
+#acro=c:\kbdata\EN\EN_dev_en_acro.csv
+#filter=c:\kbdata\EN\EN_dev_en_filter.csv
+#labels=c:\kbdata\EN\EN_dev_en_labels.csv
+#lexreps=c:\kbdata\EN\EN_dev_en_lexreps.csv
+#prepro=c:\kbdata\EN\EN_dev_en_prepro.csv
+#rules=c:\kbdata\EN\EN_dev_en_rules.csv
+#
+# Relative filename (files exists in directory)
+#
+acro=.\JP_dev_jp_acro.csv
+filter=.\JP_dev_jp_filter.csv
+labels=.\JP_jp_labels.csv
+lexreps=.\JP_jp_lexreps.csv
+prepro=.\JP_dev_jp_prepro.csv
+rules=.\JP_jp_rules.csv
+metadata=.\JP_jp_metadata.csv
+#
